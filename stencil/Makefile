@@ -1,4 +1,4 @@
-CXX=g++
+CXX=icc
 CXXFLAGS=-c -qopenmp
 LDFLAGS=-qopenmp -lpng
 
